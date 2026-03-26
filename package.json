@@ -1,0 +1,19 @@
+{
+  "name": "ai-navigation-workspace",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "pnpm -F @workspace/ai-navigation dev"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0"
+  },
+  "pnpm": {
+    "overrides": {
+      "react": "19.1.0",
+      "react-dom": "19.1.0"
+    }
+  }
+}

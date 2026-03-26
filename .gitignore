@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+.env
+*.pt
+artifacts/
+training/
+package-lock.json
+pnpm-lock.yaml
+dist/
+build/
+.pnpm-debug.log*
