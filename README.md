@@ -1,3 +1,4 @@
+HEAD
 # Alice - AI Voice Navigation System
 
 Alice is an advanced, hands-free AI voice navigation system designed for modern mobility. It combines real-time object detection with conversational AI to provide an intuitive and safe navigation experience.
@@ -72,3 +73,7 @@ Alice is an advanced, hands-free AI voice navigation system designed for modern 
 ## 🛡️ License
 
 This project is private and for internal use only.
+=======
+# AI-Navigation-System
+An AI Navigation System is a smart app that helps users find directions using voice or text. It uses AI to understand inputs and provide routes, nearby locations, and basic guidance in real time.
+842cf4c10852e945c02ec1288fa7093588cd8fb5
